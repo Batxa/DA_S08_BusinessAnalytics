@@ -1,3 +1,3 @@
 # DA_S08_BusinessAnalytics
 
-Curso de DATA ANALYTICS, Sprint08
+Curso de DATA ANALYTICS, Sprint08 Business Analytics
